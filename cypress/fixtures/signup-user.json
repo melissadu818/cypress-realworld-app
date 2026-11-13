@@ -1,0 +1,17 @@
+{
+  "user": {
+    "id": "qywYp6hS0U",
+    "uuid": "8a5e8a4b-0d4a-4a6e-9f3a-3f5c2b9b8d71",
+    "firstName": "Bob",
+    "lastName": "Ross",
+    "username": "PainterJoy90",
+    "password": "$2a$10$5PXHGtcsckWtAprT5/JmluhR13f16BL8SIGhvAKNP.Dhxkt69FfzW",
+    "email": "",
+    "phoneNumber": "",
+    "avatar": "",
+    "defaultPrivacyLevel": "public",
+    "balance": 0,
+    "createdAt": "2020-05-21T11:02:22.857Z",
+    "modifiedAt": "2020-05-21T11:02:22.857Z"
+  }
+}
